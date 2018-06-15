@@ -2,9 +2,7 @@
 #include<conio.h>
 void main()
 {
-int a,b,c;
-a=2;
-b=3;
+int a=5,b=10,c;
 c=a+b;
 printf("Addition of two no is:"%d);
 scanf("%d",&c);
